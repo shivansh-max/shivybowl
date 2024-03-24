@@ -1,0 +1,208 @@
+{
+    "questions": {
+        "MSS1R1T01LSSA": {
+            "info": {
+                "level": "Tossup",
+                "set": "Set 1",
+                "round": "Round 1",
+                "question": "1",
+                "question type": "Life Science",
+                "Question Answer Type": "Short Answer"
+            },
+            "question": "What organelle functions to isolate a human cell\u2019s chromosomes from the cytoplasm?",
+            "answerOpts": [],
+            "answer": "Nucleus"
+        },
+        "MSS1R1B01LSSA": {
+            "info": {
+                "level": "Middle School",
+                "set": "Set 1",
+                "round": "Round 1",
+                "type": "Bonus",
+                "question": "1",
+                "question type": "Life Science",
+                "Question Answer Type": "Short Answer"
+            },
+            "question": "What is the primary oxygen-carrying protein found in red blood cells?",
+            "answerOpts": [],
+            "answer": "Hemoglobin"
+        },
+        "MSS1R1T02PSSA": {
+            "info": {
+                "level": "Tossup",
+                "set": "Set 1",
+                "round": "Round 1",
+                "question": "2",
+                "question type": "Physical Science",
+                "Question Answer Type": "Short Answer"
+            },
+            "question": "What physical state of matter is intermediate between a solid and gas?",
+            "answerOpts": [],
+            "answer": "Liquid"
+        },
+        "MSS1R1B02PSMC": {
+            "info": {
+                "level": "Middle School",
+                "set": "Set 1",
+                "round": "Round 1",
+                "type": "Bonus",
+                "question": "2",
+                "question type": "Physical Science",
+                "Question Answer Type": "Multiple Choice"
+            },
+            "question": "Which of the following BEST describes the term static ?",
+            "answerOpts": [
+                "stationary",
+                "low",
+                "constant",
+                "used"
+            ],
+            "answer": "Stationary"
+        },
+        "MSS1R1T03ESSA": {
+            "info": {
+                "level": "Tossup",
+                "set": "Set 1",
+                "round": "Round 1",
+                "question": "3",
+                "question type": "Earth Science",
+                "Question Answer Type": "Short Answer"
+            },
+            "question": "What is the general name for the rising and falling of sea levels in response to the forces exerted by the Moon and Sun?",
+            "answerOpts": [],
+            "answer": "Tides"
+        },
+        "MSS1R1B03ESMC": {
+            "info": {
+                "level": "Middle School",
+                "set": "Set 1",
+                "round": "Round 1",
+                "type": "Bonus",
+                "question": "3",
+                "question type": "Earth Science",
+                "Question Answer Type": "Multiple Choice"
+            },
+            "question": "Approximately what fraction of Earth\u2019s surface is covered by oceans:",
+            "answerOpts": [
+                "One-Half",
+                "Two-Thirds",
+                "Seven-Tenths",
+                "Four-Fifths"
+            ],
+            "answer": "Seven-Tenths"
+        },
+        "MSS1R1T04MASA": {
+            "info": {
+                "level": "Tossup",
+                "set": "Set 1",
+                "round": "Round 1",
+                "question": "4",
+                "question type": "Math",
+                "Question Answer Type": "Short Answer"
+            },
+            "question": "How many degrees are in one-third of a right angle?",
+            "answerOpts": [],
+            "answer": "30"
+        },
+        "MSS1R1B04MASA": {
+            "info": {
+                "level": "Middle School",
+                "set": "Set 1",
+                "round": "Round 1",
+                "type": "Bonus",
+                "question": "4",
+                "question type": "Math",
+                "Question Answer Type": "Short Answer"
+            },
+            "question": "Round the number 535,279 to the nearest ten-thousand:",
+            "answerOpts": [],
+            "answer": "540000"
+        },
+        "MSS1R1T05GSSA": {
+            "info": {
+                "level": "Tossup",
+                "set": "Set 1",
+                "round": "Round 1",
+                "question": "5",
+                "question type": "General Science",
+                "Question Answer Type": "Short Answer"
+            },
+            "question": "The number 4.56 \u00d7 10^11 has how many zeroes?",
+            "answerOpts": [],
+            "answer": "9"
+        },
+        "MSS1R1B05GSSA": {
+            "info": {
+                "level": "Middle School",
+                "set": "Set 1",
+                "round": "Round 1",
+                "type": "Bonus",
+                "question": "5",
+                "question type": "General Science",
+                "Question Answer Type": "Short Answer"
+            },
+            "question": "Giving your answer in grams, subtract 200 grams from 6.2 kilograms:",
+            "answerOpts": [],
+            "answer": "6,000"
+        },
+        "MSS1R1T06LSSA": {
+            "info": {
+                "level": "Tossup",
+                "set": "Set 1",
+                "round": "Round 1",
+                "question": "6",
+                "question type": "Life Science",
+                "Question Answer Type": "Short Answer"
+            },
+            "question": "How many permanent teeth does a typical adult human have?",
+            "answerOpts": [],
+            "answer": "32"
+        },
+        "MSS1R1B06LSSA": {
+            "info": {
+                "level": "Middle School",
+                "set": "Set 1",
+                "round": "Round 1",
+                "type": "Bonus",
+                "question": "6",
+                "question type": "Life Science",
+                "Question Answer Type": "Short Answer"
+            },
+            "question": "How many canine teeth does the typical human adult have?",
+            "answerOpts": [],
+            "answer": "4"
+        },
+        "MSS1R1T07PSMC": {
+            "info": {
+                "level": "Tossup",
+                "set": "Set 1",
+                "round": "Round 1",
+                "question": "7",
+                "question type": "Physical Science",
+                "Question Answer Type": "Multiple Choice"
+            },
+            "question": "Mary tried to lift her couch by exerting 500 newtons of force but it doesn\u2019t budge. If the couch weighed 2,000 newtons, how much work did she do:",
+            "answerOpts": [
+                "0",
+                "50 Watts",
+                "500 Joules",
+                "2000 Joules"
+            ],
+            "answer": "0"
+        },
+        "MSS1R1B07PSSA": {
+            "info": {
+                "level": "Middle School",
+                "set": "Set 1",
+                "round": "Round 1",
+                "type": "Bonus",
+                "question": "7",
+                "question type": "Physical Science",
+                "Question Answer Type": "Short Answer"
+            },
+            "question": "Jeff walks west in a straight path for 100 meters and then east in a straight path for 150 meters. What is the magnitude of his displacement, in meters?",
+            "answerOpts": [],
+            "answer": "50"
+        }
+    }
+}
